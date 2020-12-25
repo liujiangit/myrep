@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="brandom_product_core" />
+        <module name="brandom_mall_srv" />
         <module name="brandom_user_core" />
         <module name="brandom_product_srv" />
         <module name="brandom_user_srv" />
-        <module name="brandom_mall_srv" />
+        <module name="brandom_product_core" />
       </profile>
     </annotationProcessing>
   </component>
