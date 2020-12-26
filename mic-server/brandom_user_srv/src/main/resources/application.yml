@@ -1,5 +1,5 @@
 server:
-  port: 8765
+  port: 8000
 
 eureka:
   instance:
@@ -13,3 +13,43 @@ eureka:
 spring:
   application:
     name: eurka-server
+
+
+user:
+  druid:
+    name: mysql-user
+    url: jdbc:mysql://192.168.1.181:3306/user_center?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&serverTimezone=Asia/Shanghai
+    driverClassName: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 123456
+    initialSize: 1
+    minIdle: 1
+    maxActive: 20
+    maxWait: 60000
+    minEvictableIdleTimeMillis: 600000
+    maxEvictableIdleTimeMillis: 900000
+    timeBetweenEvictionRunsMillis: 2000
+    removeAbandoned: true
+    removeAbandonedTimeout: 600
+    logAbandoned: true
+
+#mybatis-plus
+mybatis-plus:
+  #xml
+  mapper-locations: classpath:/mapper/*Mapper.xml
+  #bean
+  typeAliasesPackage: com.cun.plus.entity
+  global-config:
+    # 3:"UUID";
+    id-type: 3
+    field-strategy: 2
+    db-column-underline: true
+    key-generator: com.baomidou.mybatisplus.incrementer.OracleKeyGenerator
+    logic-delete-value: 1
+    logic-not-delete-value: 0
+#    sql-injector: com.baomidou.mybatisplus.mapper.LogicSqlInjector
+  configuration:
+    map-underscore-to-camel-case: true
+    cache-enabled: false
+    #JdbcTypeForNull
+    jdbc-type-for-null: 'null'
