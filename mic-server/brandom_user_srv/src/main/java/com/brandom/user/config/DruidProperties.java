@@ -1,7 +1,7 @@
 package com.brandom.user.config;
 
-import lombok.Getter;
-import lombok.Setter;
+
+import lombok.Data;
 
 /**
  * druid配置信息
@@ -11,8 +11,7 @@ import lombok.Setter;
  * @author Wuwenchao
  *
  */
-@Getter
-@Setter
+@Data
 public class DruidProperties {
 
     private String name; // 配置这个属性的意义在于，如果存在多个数据源，监控的时候可以通过名字来区分开来

@@ -10,6 +10,14 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/mic-server/brandom_mall_srv/pom.xml" />
+        <option value="$PROJECT_DIR$/mic-core/brandom_common_core/pom.xml" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_product_srv/pom.xml" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_user_srv/pom.xml" />
+        <option value="$PROJECT_DIR$/mic-core/brandom_product_core/pom.xml" />
+        <option value="$PROJECT_DIR$/mic-core/brandom_user_core/pom.xml" />
+        <option value="$PROJECT_DIR$/mic-cloud/brandom_eureka_srv/pom.xml" />
+        <option value="$PROJECT_DIR$/mic-cloud/brandom_eureka02_srv/pom.xml" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_mall02_srv/pom.xml" />
       </list>
     </option>
   </component>

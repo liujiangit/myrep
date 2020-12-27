@@ -31,9 +31,14 @@
 
 
         <dependency>
-            <groupId>com.brandom.core</groupId>
-            <artifactId>brandom_core</artifactId>
+            <groupId>com.common.core</groupId>
+            <artifactId>brandom_common_core</artifactId>
             <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <optional>true</optional>
         </dependency>
 
         <dependency>

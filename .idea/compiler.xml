@@ -6,21 +6,29 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="brandom_mall_srv" />
         <module name="brandom_user_srv" />
-        <module name="brandom_product_core" />
+        <module name="brandom_common_core" />
+        <module name="brandom_mall02_srv" />
+        <module name="brandom_mall_srv" />
         <module name="brandom_product_srv" />
+        <module name="brandom_eureka02_srv" />
         <module name="brandom_user_core" />
+        <module name="brandom_product_core" />
+        <module name="brandom_eureka_srv" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="brandom_mall_srv" options="-parameters" />
-      <module name="brandom_product_core" options="-parameters" />
-      <module name="brandom_product_srv" options="-parameters" />
-      <module name="brandom_user_core" options="-parameters" />
-      <module name="brandom_user_srv" options="-parameters" />
+      <module name="brandom_common_core" options="" />
+      <module name="brandom_eureka02_srv" options="" />
+      <module name="brandom_eureka_srv" options="" />
+      <module name="brandom_mall02_srv" options="" />
+      <module name="brandom_mall_srv" options="" />
+      <module name="brandom_product_core" options="" />
+      <module name="brandom_product_srv" options="" />
+      <module name="brandom_user_core" options="" />
+      <module name="brandom_user_srv" options="" />
     </option>
   </component>
 </project>
