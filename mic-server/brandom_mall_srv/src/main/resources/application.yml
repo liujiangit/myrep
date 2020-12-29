@@ -11,7 +11,7 @@ spring:
     password: 123456
 mybatis:
   mapper-locations: classpath:mapper/*.xml
-  type-aliases-package: com.brandom.mall.enities
+  type-aliases-package: com.brandom.mall.entities
 
 eureka:
   client:

@@ -1,6 +1,6 @@
 package com.brandom.mall.dao;
 
-import com.common.core.enities.Payment;
+import com.common.core.entities.Payment;
 
 public interface PaymentDao {
 

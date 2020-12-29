@@ -1,6 +1,6 @@
 package com.brandom.mall.service;
 
-import com.common.core.enities.Payment;
+import com.common.core.entities.Payment;
 import org.apache.ibatis.annotations.Param;
 
 public interface PaymentService {

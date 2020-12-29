@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.brandom.mall.dao.PaymentDao">
-  <resultMap id="BaseResultMap" type="com.common.core.enities.Payment">
+  <resultMap id="BaseResultMap" type="com.common.core.entities.Payment">
     <id column="id" jdbcType="BIGINT" property="id" />
     <result column="serial" jdbcType="VARCHAR" property="serial" />
   </resultMap>
@@ -18,11 +18,11 @@
     delete from payment
     where id = #{id,jdbcType=BIGINT}
   </delete>
-  <insert id="insert" parameterType="com.common.core.enities.Payment">
+  <insert id="insert" parameterType="com.common.core.entities.Payment">
     insert into payment (serial)
     values (#{serial,jdbcType=VARCHAR})
   </insert>
-  <insert id="insertSelective" parameterType="com.common.core.enities.Payment">
+  <insert id="insertSelective" parameterType="com.common.core.entities.Payment">
     <selectKey keyProperty="id" order="BEFORE" resultType="java.lang.Long">
       SELECT LAST_INSERT_ID()
     </selectKey>
@@ -40,7 +40,7 @@
       </if>
     </trim>
   </insert>
-  <update id="updateByPrimaryKeySelective" parameterType="com.common.core.enities.Payment">
+  <update id="updateByPrimaryKeySelective" parameterType="com.common.core.entities.Payment">
     update payment
     <set>
       <if test="serial != null">
@@ -49,7 +49,7 @@
     </set>
     where id = #{id,jdbcType=BIGINT}
   </update>
-  <update id="updateByPrimaryKey" parameterType="com.common.core.enities.Payment">
+  <update id="updateByPrimaryKey" parameterType="com.common.core.entities.Payment">
     update payment
     set serial = #{serial,jdbcType=VARCHAR}
     where id = #{id,jdbcType=BIGINT}

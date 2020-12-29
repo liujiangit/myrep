@@ -1,0 +1,14 @@
+server:
+  port: 9002
+eureka:
+  client:
+    register-with-eureka: false
+    service-url:
+      defaultZone: http://peer1:7001/eureka,http://peer2:7002/eureka  #\u96C6\u7FA4\u7248
+#\u8BBE\u7F6Eribbon\u7684\u8D85\u65F6\u65F6\u95F4\uFF0C\u9ED8\u8BA4\u662F1\u79D2\u8D85\u65F6\u3002
+ribbon:
+  ReadTimeout:  5000
+  ConnectTimeout: 5000
+logging:
+  level:
+   com.brandom.order.service.MallFeignService: info

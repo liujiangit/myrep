@@ -1,8 +1,10 @@
 package com.brandom.mall.controller;
 
+import java.util.concurrent.TimeUnit;
+
 import com.brandom.mall.service.PaymentService;
-import com.common.core.enities.CommonResult;
-import com.common.core.enities.Payment;
+import com.common.core.entities.CommonResult;
+import com.common.core.entities.Payment;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.*;
@@ -40,6 +42,17 @@ public class PaymentController {
         }else {
             return new CommonResult(444,"没有对应记录，查询ID："+id,null);
         }
+    }
+
+    @GetMapping(value = "/payment/lb")
+    public String getPaymentLB(){
+        return serverPort;
+    }
+
+    @GetMapping(value = "/payment/feign/timeout")
+    public String paymentFeignTimeout(){
+        try { TimeUnit.SECONDS.sleep(3); }catch (Exception e) {e.printStackTrace();}
+        return serverPort;
     }
 }
 

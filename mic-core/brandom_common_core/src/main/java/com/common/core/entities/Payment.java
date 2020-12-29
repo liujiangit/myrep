@@ -1,4 +1,4 @@
-package com.common.core.enities;
+package com.common.core.entities;
 
 import lombok.Data;
 
