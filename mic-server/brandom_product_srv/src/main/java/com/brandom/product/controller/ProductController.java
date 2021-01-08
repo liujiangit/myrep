@@ -5,6 +5,7 @@ import java.util.List;
 
 import javax.annotation.Resource;
 
+import com.brandom.product.entity.Annimal;
 import com.brandom.product.loadbalance.LoadBalancer;
 import com.common.core.entities.CommonResult;
 import com.common.core.entities.Payment;
@@ -38,6 +39,16 @@ public class ProductController {
 
     @Resource
     private LoadBalancer loadBalancer;
+
+    @GetMapping(value = "/test/base")
+    public String getMyteest(){
+        Annimal.eat("apple");
+        Annimal.eat("apple","water");
+        Annimal annimal = new Annimal();
+        annimal.eat("ss");
+        annimal.start();
+        return "hello";
+    }
 
     @PostMapping("/comsumer/payment/create")
     public CommonResult<Payment> getPayment(@RequestBody Payment payment){

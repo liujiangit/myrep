@@ -12,3 +12,6 @@ ribbon:
 logging:
   level:
    com.brandom.order.service.MallFeignService: info
+feign:
+  hystrix:
+    enabled: true #如果处理自身的容错就开启。开启方式与生产端不一样。

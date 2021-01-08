@@ -25,6 +25,12 @@
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
 
+        <!--新增hystrix-->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-netflix-hystrix</artifactId>
+        </dependency>
+
         <!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter-eureka-server -->
         <dependency>
             <groupId>org.springframework.cloud</groupId>

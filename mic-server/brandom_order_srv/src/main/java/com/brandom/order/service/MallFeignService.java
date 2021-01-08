@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.PathVariable;
  * @since JDK1.8
  */
 @Component
-@FeignClient(value = "MALL-SRV")
+@FeignClient(value = "MALL-SRV1")
 public interface MallFeignService {
 
     @GetMapping(value = "/payment/get/{id}")
