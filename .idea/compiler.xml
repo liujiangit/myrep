@@ -9,14 +9,19 @@
         <module name="brandom_user_srv" />
         <module name="brandom_common_core" />
         <module name="brandom_mall02_srv" />
-        <module name="brandom_mall_srv" />
         <module name="brandom_product_srv" />
         <module name="brandom_eureka02_srv" />
-        <module name="brandom_user_core" />
+        <module name="brandom_mall_srv" />
         <module name="brandom_product_core" />
+        <module name="brandom_order_srv" />
+        <module name="brandom_user_core" />
         <module name="brandom_eureka_srv" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="brandom_core" target="1.8" />
+      <module name="plus" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
@@ -25,6 +30,7 @@
       <module name="brandom_eureka_srv" options="" />
       <module name="brandom_mall02_srv" options="" />
       <module name="brandom_mall_srv" options="" />
+      <module name="brandom_order_srv" options="" />
       <module name="brandom_product_core" options="" />
       <module name="brandom_product_srv" options="" />
       <module name="brandom_user_core" options="" />

@@ -1,78 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22a37c0f-9713-4de8-940b-5c01697525dc" name="Default Changelist" comment="spring项目原码">
-      <change afterPath="$PROJECT_DIR$/mic-cloud/brandom_eureka02_srv/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-cloud/brandom_eureka02_srv/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-cloud/brandom_eureka02_srv/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-cloud/brandom_eureka02_srv/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-cloud/brandom_eureka02_srv/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-cloud/brandom_eureka02_srv/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-cloud/brandom_eureka02_srv/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-cloud/brandom_eureka02_srv/src/main/java/com/brandom/eureka02/BrandomEureka02SrvApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-cloud/brandom_eureka02_srv/src/test/java/com/brandom/eureka02/BrandomEureka02SrvApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-cloud/brandom_eureka_srv/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-cloud/brandom_eureka_srv/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-cloud/brandom_eureka_srv/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-cloud/brandom_eureka_srv/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-cloud/brandom_eureka_srv/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-cloud/brandom_eureka_srv/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-cloud/brandom_eureka_srv/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-cloud/brandom_eureka_srv/src/main/java/com/brandom/eureka/BrandomEurekaSrvApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-cloud/brandom_eureka_srv/src/test/java/com/brandom/eureka/BrandomEurekaSrvApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-core/brandom_common_core/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-core/brandom_common_core/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-core/brandom_common_core/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-core/brandom_common_core/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-core/brandom_common_core/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-core/brandom_common_core/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-core/brandom_common_core/src/main/java/com/common/core/enities/CommonResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-core/brandom_common_core/src/main/java/com/common/core/enities/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-server/brandom_mall02_srv/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-server/brandom_mall02_srv/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-server/brandom_mall02_srv/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-server/brandom_mall02_srv/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-server/brandom_mall02_srv/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-server/brandom_mall02_srv/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-server/brandom_mall02_srv/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall/BrandomMall02SrvApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall/controller/PaymentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall/dao/PaymentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall/service/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall/service/impl/PaymentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/resources/mapper/PaymentMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/test/java/com/brandom/mall/BrandomMall02SrvApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/controller/PaymentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/dao/PaymentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/service/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/service/impl/PaymentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/resources/mapper/PaymentMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/config/ApplicationContextConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/resources/application.yml" afterDir="false" />
+    <list default="true" id="4e8f99b4-389d-49bf-898e-79566c595a4a" name="Default Changelist" comment="服务降级">
+      <change afterPath="$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/java/com/brandom/order/controller/OrderHystrixController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/java/com/brandom/order/service/PaymentHystrixService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/java/com/brandom/order/service/impl/PaymentFallbackService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/entity/Annimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/entity/Forest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mic-server/brandom_mall02_srv/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/brandom_mall02_srv/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall/BrandomMall02SrvApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall/BrandomMall02SrvApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall/service/PaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall/service/impl/PaymentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall/service/impl/PaymentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mic-server/brandom_mall_srv/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/brandom_mall_srv/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/BrandomMallSrvApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/BrandomMallSrvApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/service/PaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/service/impl/PaymentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/service/impl/PaymentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mic-server/brandom_order_srv/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/brandom_order_srv/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/java/com/brandom/order/BrandomOrderSrvApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/java/com/brandom/order/BrandomOrderSrvApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/java/com/brandom/order/service/MallFeignService.java" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/java/com/brandom/order/service/MallFeignService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mic-server/brandom_product_srv/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/brandom_product_srv/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/config/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/config/ApplicationContextConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmap/LTrace.mmap" beforeDir="false" afterPath="$PROJECT_DIR$/mmap/LTrace.mmap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmap/SpringCloud 第二季2020.03.05完整修复版.mmap" beforeDir="false" afterPath="$PROJECT_DIR$/mmap/SpringCloud 第二季2020.03.05完整修复版.mmap" afterDir="false" />
+    </list>
+    <list id="0465b18e-75c9-4283-bc18-201286d18c4b" name="uncommitChangelist" comment="uncommitChangelist">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mic-core/brandom_core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mic-core/brandom_common_core/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mic-core/brandom_core/src/main/java/com/brandom/core/BrandomCoreApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/mic-core/brandom_common_core/src/main/java/com/common/core/BrandomCommonCoreApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mic-core/brandom_core/src/main/java/com/brandom/core/Controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mic-core/brandom_common_core/src/main/java/com/common/core/Controller/TestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mic-core/brandom_core/src/main/java/com/brandom/core/config/DruidProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/mic-core/brandom_common_core/src/main/java/com/common/core/config/DruidProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mic-core/brandom_core/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mic-cloud/brandom_eureka02_srv/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mic-core/brandom_core/src/test/java/com/brandom/core/BrandomCoreApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/mic-core/brandom_common_core/src/test/java/com/common/core/BrandomCommonCoreApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mic-server/brandom_mall_srv/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/brandom_mall_srv/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/BrandomMallSrvApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/BrandomMallSrvApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mic-cloud/brandom_eureka_srv/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mic-server/brandom_product_srv/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/brandom_product_srv/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/BrandomProductSrvApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/BrandomProductSrvApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/controller/ProductTestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/controller/ProductController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mic-core/brandom_common_core/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mic-server/brandom_user_srv/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/brandom_user_srv/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mic-server/brandom_user_srv/src/main/java/com/brandom/user/config/DruidProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/brandom_user_srv/src/main/java/com/brandom/user/config/DruidProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
-    <list id="6c73ead8-f42d-4f99-a46d-a5a23972be20" name="uncommit" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/mic-core/brandom_user_core/target/" />
     <ignored path="$PROJECT_DIR$/mic-server/brandom_user_srv/target/" />
@@ -84,6 +46,7 @@
     <ignored path="$PROJECT_DIR$/mic-cloud/brandom_eureka_srv/target/" />
     <ignored path="$PROJECT_DIR$/mic-cloud/brandom_eureka02_srv/target/" />
     <ignored path="$PROJECT_DIR$/mic-server/brandom_mall02_srv/target/" />
+    <ignored path="$PROJECT_DIR$/mic-server/brandom_order_srv/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,89 +63,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mic-cloud/brandom_eureka02_srv/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mic-cloud/brandom_eureka_srv/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mic-cloud/brandom_eureka_srv/src/main/java/com/brandom/eureka/BrandomEurekaSrvApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/BrandomMallSrvApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="208">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/entity/Forest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-434">
-              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mic-cloud/brandom_eureka02_srv/src/main/java/com/brandom/eureka02/BrandomEureka02SrvApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="234">
+              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
               <folding>
-                <element signature="e#439#440#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall/BrandomMall02SrvApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/config/ApplicationContextConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#306#307#0" expanded="true" />
-                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -191,11 +87,80 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/controller/PaymentController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="963">
-              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+            <state relative-caret-position="158">
+              <caret line="38" column="50" lean-forward="true" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/service/PaymentService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/service/impl/PaymentServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="584">
+              <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1571#1572#0" expanded="true" />
+                <element signature="e#1631#1632#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-javanica/1.5.18/hystrix-javanica-1.5.18.jar!/com/netflix/hystrix/contrib/javanica/command/MethodExecutionAction.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="78" selection-start-line="78" selection-end-line="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/dao/PaymentDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="702">
+              <caret line="27" selection-start-line="27" selection-end-line="31" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -217,6 +182,16 @@
       <find>SpringBootApplicationConfigurationType</find>
       <find>BaseResultMap</find>
       <find>eureka7002.com</find>
+      <find>boot-starter</find>
+      <find>projectlombok</find>
+      <find>-boot-starter-test</find>
+      <find>8001</find>
+      <find>consumer/payment/feign/timeout</find>
+      <find>max-threads</find>
+      <find>/payment/hystrix/ok/</find>
+      <find>ok_count</find>
+      <find>/payment/hystrix/timeout/{id}</find>
+      <find>paymentInfo_TimeOutHandler</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -225,48 +200,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mic-server/brandom_user_srv/src/main/java/com/brandom/user/springsource/SpringTest.java" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_user_srv/src/main/java/com/brandom/user/springsource/entity/lookup/User.java" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_user_srv/src/main/java/com/brandom/user/springsource/readtest/ReadTest.java" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_user_srv/src/main/resources/beanFactoryTest.xml" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_user_srv/src/main/resources/test/lookup/lookupTest.xml" />
-        <option value="$PROJECT_DIR$/mic-core/brandom_common_core/src/main/java/com/common/core/config/DruidProperties.java" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/enities/Payment.java" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/enities/CommonResult.java" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/BrandomMallSrvApplication.java" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/resources/generatorConfig.xml" />
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/enities/CommonResult.java" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/controller/ProductTestController.java" />
-        <option value="$PROJECT_DIR$/mic-core/brandom_common_core/pom.xml" />
-        <option value="$PROJECT_DIR$/mic-core/brandom_common_core/src/main/java/com/common/core/enities/Payment.java" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/service/PaymentService.java" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/dao/PaymentDao.java" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/service/impl/PaymentServiceImpl.java" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/resources/mapper/PaymentMapper.xml" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_user_srv/pom.xml" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_user_srv/src/main/java/com/brandom/user/config/DruidProperties.java" />
-        <option value="$PROJECT_DIR$/mic-cloud/brandom_eureka_srv/pom.xml" />
-        <option value="$PROJECT_DIR$/mic-cloud/brandom_eureka_srv/src/main/java/com/brandom/eureka/BrandomEurekaSrvApplication.java" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_mall_srv/pom.xml" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_product_srv/pom.xml" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/BrandomProductSrvApplication.java" />
-        <option value="$PROJECT_DIR$/mic-cloud/brandom_eureka02_srv/pom.xml" />
-        <option value="$PROJECT_DIR$/mic-cloud/brandom_eureka02_srv/src/main/java/com/brandom/eureka02/BrandomEureka02SrvApplication.java" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_mall02_srv/pom.xml" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall02/BrandomMall02SrvApplication.java" />
         <option value="$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall02/controller/PaymentController.java" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/mic-cloud/brandom_eureka02_srv/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/mic-cloud/brandom_eureka_srv/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/controller/PaymentController.java" />
-        <option value="$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall/controller/PaymentController.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/BrandomProductSrvApplication.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/myrule/MyRule.java" />
+        <option value="$PROJECT_DIR$/mic-core/brandom_common_core/pom.xml" />
+        <option value="$PROJECT_DIR$/mic-core/brandom_common_core/src/main/java/com/common/core/test/TestController.java" />
+        <option value="$PROJECT_DIR$/mic-core/brandom_common_core/src/main/java/com/common/core/test/entity/Father.java" />
+        <option value="$PROJECT_DIR$/mic-core/brandom_common_core/src/main/java/com/common/core/test/entity/Son.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/loadbalance/LoadBalancer.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/loadbalance/MyLoadBalancer.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_user_srv/src/main/java/com/brandom/user/BrandomUserSrvApplication.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_user_srv/src/main/java/com/brandom/user/service/MallService.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_user_srv/src/main/java/com/brandom/user/service/MallFeignService.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_user_srv/src/main/java/com/brandom/user/controller/OpenFeignController.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_user_srv/src/main/java/com/brandom/user/config/DruidAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_user_srv/src/main/java/com/brandom/user/config/DruidProperties.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_user_srv/src/main/java/com/brandom/user/config/UserDBProperties.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_user_srv/pom.xml" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_user_srv/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_user_srv/src/main/java/com/brandom/user/springsource/readtest/ReadTest.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/java/com/brandom/order/controller/OpenFeignController.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/java/com/brandom/order/config/FeignConfig.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/config/ApplicationContextConfig.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_mall_srv/pom.xml" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_mall02_srv/pom.xml" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall/controller/PaymentController.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall/service/PaymentService.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_order_srv/pom.xml" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_product_srv/pom.xml" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/java/com/brandom/order/service/impl/PaymentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/java/com/brandom/order/service/PaymentService.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/BrandomMallSrvApplication.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/java/com/brandom/order/BrandomOrderSrvApplication.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/java/com/brandom/order/service/MallFeignService.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall/service/impl/PaymentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall/BrandomMall02SrvApplication.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/java/com/brandom/order/service/impl/PaymentFallbackService.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/java/com/brandom/order/service/PaymentHystrixService.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/java/com/brandom/order/controller/OrderHystrixController.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/entity/annimal.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/entity/Annimal.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/entity/Forest.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/service/impl/PaymentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/controller/PaymentController.java" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/service/PaymentService.java" />
       </list>
     </option>
   </component>
@@ -274,8 +258,8 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="C:\Users\Administrator\.m2\repository" />
-        <option name="mavenHome" value="G:/openSource/InstallationPackage/apache-maven-3.3.9" />
-        <option name="userSettingsFile" value="G:\openSource\InstallationPackage\apache-maven-3.3.9\conf\settings.xml" />
+        <option name="mavenHome" value="F:/OpenSource/download/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="F:\OpenSource\download\apache-maven-3.6.1\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -286,62 +270,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="brandom_common_core" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="brandom_common_core" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="brandom_eureka02_srv" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="brandom_eureka02_srv" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="brandom_eureka_srv" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="brandom_eureka_srv" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="brandom_mall02_srv" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="brandom_mall02_srv" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="brandom_mall_srv" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="brandom_mall_srv" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="brandom_product_srv" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="brandom_product_srv" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -351,13 +280,12 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -368,7 +296,47 @@
             <path>
               <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="brandomparent" type="462c0819:PsiDirectoryNode" />
+              <item name="mic-cloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brandomparent" type="462c0819:PsiDirectoryNode" />
+              <item name="mic-core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brandomparent" type="462c0819:PsiDirectoryNode" />
               <item name="mic-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brandomparent" type="462c0819:PsiDirectoryNode" />
+              <item name="mic-server" type="462c0819:PsiDirectoryNode" />
+              <item name="brandom_mall02_srv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brandomparent" type="462c0819:PsiDirectoryNode" />
+              <item name="mic-server" type="462c0819:PsiDirectoryNode" />
+              <item name="brandom_mall02_srv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brandomparent" type="462c0819:PsiDirectoryNode" />
+              <item name="mic-server" type="462c0819:PsiDirectoryNode" />
+              <item name="brandom_mall02_srv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brandomparent" type="462c0819:PsiDirectoryNode" />
+              <item name="mic-server" type="462c0819:PsiDirectoryNode" />
+              <item name="brandom_mall02_srv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
@@ -390,6 +358,70 @@
               <item name="brandom_mall_srv" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brandomparent" type="462c0819:PsiDirectoryNode" />
+              <item name="mic-server" type="462c0819:PsiDirectoryNode" />
+              <item name="brandom_mall_srv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brandomparent" type="462c0819:PsiDirectoryNode" />
+              <item name="mic-server" type="462c0819:PsiDirectoryNode" />
+              <item name="brandom_mall_srv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brandomparent" type="462c0819:PsiDirectoryNode" />
+              <item name="mic-server" type="462c0819:PsiDirectoryNode" />
+              <item name="brandom_mall_srv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brandomparent" type="462c0819:PsiDirectoryNode" />
+              <item name="mic-server" type="462c0819:PsiDirectoryNode" />
+              <item name="brandom_mall_srv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brandomparent" type="462c0819:PsiDirectoryNode" />
+              <item name="mic-server" type="462c0819:PsiDirectoryNode" />
+              <item name="brandom_mall_srv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brandomparent" type="462c0819:PsiDirectoryNode" />
+              <item name="mic-server" type="462c0819:PsiDirectoryNode" />
+              <item name="brandom_mall_srv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
@@ -404,16 +436,148 @@
               <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="brandomparent" type="462c0819:PsiDirectoryNode" />
               <item name="mic-server" type="462c0819:PsiDirectoryNode" />
-              <item name="brandom_mall_srv" type="462c0819:PsiDirectoryNode" />
+              <item name="brandom_product_srv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brandomparent" type="462c0819:PsiDirectoryNode" />
+              <item name="mic-server" type="462c0819:PsiDirectoryNode" />
+              <item name="brandom_product_srv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brandomparent" type="462c0819:PsiDirectoryNode" />
+              <item name="mic-server" type="462c0819:PsiDirectoryNode" />
+              <item name="brandom_product_srv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brandomparent" type="462c0819:PsiDirectoryNode" />
+              <item name="mic-server" type="462c0819:PsiDirectoryNode" />
+              <item name="brandom_product_srv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brandomparent" type="462c0819:PsiDirectoryNode" />
+              <item name="mic-server" type="462c0819:PsiDirectoryNode" />
+              <item name="brandom_product_srv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="brandom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brandomparent" type="462c0819:PsiDirectoryNode" />
+              <item name="mic-server" type="462c0819:PsiDirectoryNode" />
+              <item name="brandom_product_srv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="brandom" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brandomparent" type="462c0819:PsiDirectoryNode" />
+              <item name="mic-server" type="462c0819:PsiDirectoryNode" />
+              <item name="brandom_product_srv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="brandom" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brandomparent" type="462c0819:PsiDirectoryNode" />
+              <item name="mic-server" type="462c0819:PsiDirectoryNode" />
+              <item name="brandom_product_srv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="brandom" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brandomparent" type="462c0819:PsiDirectoryNode" />
+              <item name="mic-server" type="462c0819:PsiDirectoryNode" />
+              <item name="brandom_product_srv" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.netflix.hystrix:hystrix-javanica:1.5.18" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.netflix.hystrix:hystrix-javanica:1.5.18" type="70bed36:NamedLibraryElementNode" />
+              <item name="hystrix-javanica-1.5.18.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.netflix.hystrix:hystrix-javanica:1.5.18" type="70bed36:NamedLibraryElementNode" />
+              <item name="hystrix-javanica-1.5.18.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="javanica" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brandomparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.netflix.hystrix:hystrix-javanica:1.5.18" type="70bed36:NamedLibraryElementNode" />
+              <item name="hystrix-javanica-1.5.18.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="javanica" type="462c0819:PsiDirectoryNode" />
+              <item name="command" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -429,11 +593,15 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.2031163" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.brandom.order.service" />
+      <recent name="com.brandom.order.controller" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\project\brandomparent\mic-server\brandom_mall02_srv\src\main\resources" />
       <recent name="E:\project\brandomparent\mic-server\brandom_mall02_srv\src\main\java\com\brandom\mall02" />
@@ -458,9 +626,64 @@
         </RuleState>
       </list>
     </option>
-    <option name="contentProportion" value="0.22707424" />
+    <option name="contentProportion" value="0.32367414" />
   </component>
-  <component name="RunManager" selected="Spring Boot.BrandomMall02SrvApplication">
+  <component name="RunManager" selected="Application.Forest">
+    <configuration name="Annimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brandom.product.entity.Annimal" />
+      <module name="brandom_product_srv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brandom.product.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Forest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brandom.product.entity.Forest" />
+      <module name="brandom_product_srv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brandom.product.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Son" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.common.core.test.entity.Son" />
+      <module name="brandom_common_core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.common.core.test.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestController.testFinalMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="brandom_common_core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.common.core.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.common.core.test" />
+      <option name="MAIN_CLASS_NAME" value="com.common.core.test.TestController" />
+      <option name="METHOD_NAME" value="testFinalMethod" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BrandomCommonCoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="brandom_common_core" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.common.core.BrandomCommonCoreApplication" />
@@ -496,6 +719,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BrandomOrderSrvApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="brandom_order_srv" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.brandom.order.BrandomOrderSrvApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BrandomProductCoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="brandom_product_core" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.brandom.product.BrandomProductCoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BrandomProductSrvApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="brandom_product_srv" />
       <extension name="coverage">
@@ -504,13 +741,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.brandom.product.BrandomProductSrvApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BrandomProductSrvApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="brandom_product_core" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.brandom.product.BrandomProductSrvApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -532,7 +762,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Forest" />
+        <item itemvalue="Application.Annimal" />
         <item itemvalue="Spring Boot.BrandomProductSrvApplication (1)" />
+        <item itemvalue="Application.Son" />
+        <item itemvalue="JUnit.TestController.testFinalMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -541,8 +775,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="22a37c0f-9713-4de8-940b-5c01697525dc" name="Default Changelist" comment="" />
-      <changelist id="6c73ead8-f42d-4f99-a46d-a5a23972be20" name="uncommit" comment="" />
+      <changelist id="4e8f99b4-389d-49bf-898e-79566c595a4a" name="Default Changelist" comment="" />
       <created>1608902369791</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -553,6 +786,15 @@
       <workItem from="1609047807365" duration="1678000" />
       <workItem from="1609058117263" duration="15160000" />
       <workItem from="1609082481097" duration="1846000" />
+      <workItem from="1609203831111" duration="3092000" />
+      <workItem from="1609212074621" duration="10901000" />
+      <workItem from="1609232329983" duration="568000" />
+      <workItem from="1609232939204" duration="4347000" />
+      <workItem from="1609290375162" duration="16982000" />
+      <workItem from="1609721547011" duration="9295000" />
+      <workItem from="1610068870526" duration="5576000" />
+      <workItem from="1610086252386" duration="2273000" />
+      <workItem from="1610099866506" duration="1217000" />
     </task>
     <task id="LOCAL-00001" summary="提交修改">
       <created>1608902473814</created>
@@ -568,11 +810,30 @@
       <option name="project" value="LOCAL" />
       <updated>1608903434354</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="openfeign and loadbanlance">
+      <created>1609236483629</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609236483629</updated>
+    </task>
+    <task id="LOCAL-00004" summary="添加mindmanager文件">
+      <created>1609237042742</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609237042742</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="TestController_testFinalMethod - 2020.12.29 at 15h 45m 04s.xml">
+      <configuration name="TestController.testFinalMethod" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32644000" />
+    <option name="totallyTimeSpent" value="92529000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -585,8 +846,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28640258" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14530832" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -594,33 +856,37 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="JRebel" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="2" visible="true" weight="0.5395189" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.38717067" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.38258877" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.48615727" />
+      <window_info anchor="bottom" id="Run Dashboard" order="2" weight="0.4451827" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.28903654" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3765227" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" weight="0.5441008" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.213732" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.50859106" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.44850498" />
       <window_info anchor="bottom" id="Spring" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" weight="0.32890365" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
-      <window_info anchor="bottom" id="Messages" order="15" weight="0.6426117" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.3709856" />
       <window_info anchor="bottom" id="Problems" order="16" />
+      <window_info anchor="bottom" id="JRebel Executor" order="17" />
+      <window_info anchor="bottom" id="JRebel Console" order="18" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24986595" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.28640258" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.1855228" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="ASM" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -669,34 +935,48 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="提交修改" />
     <MESSAGE value="spring项目原码" />
-    <option name="LAST_COMMIT_MESSAGE" value="spring项目原码" />
+    <MESSAGE value="openfeign and loadbanlance" />
+    <MESSAGE value="添加mindmanager文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加mindmanager文件" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/controller/PaymentController.java</url>
-          <line>23</line>
+          <url>file://$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/controller/ProductController.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/controller/ProductController.java</url>
+          <line>61</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/controller/ProductController.java</url>
-          <line>28</line>
+          <line>86</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/controller/ProductController.java</url>
+          <line>91</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall/controller/PaymentController.java</url>
+          <url>file://$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/loadbalance/MyLoadBalancer.java</url>
           <line>35</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/controller/PaymentController.java</url>
-          <line>35</line>
+          <url>file://$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/loadbalance/MyLoadBalancer.java</url>
+          <line>26</line>
           <properties />
-          <option name="timeStamp" value="8" />
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -706,249 +986,84 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/dao.java" />
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_user_srv/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="38" column="2" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.3.0/mybatis-spring-boot-autoconfigure-1.3.0.jar!/org/mybatis/spring/boot/autoconfigure/MybatisProperties.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="62" column="16" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="16" />
-          <folding>
-            <element signature="e#1862#1863#0" expanded="true" />
-            <element signature="e#1916#1917#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.0/mybatis-3.5.0.jar!/org/apache/ibatis/builder/xml/mybatis-3-mapper.dtd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="197" selection-start-line="197" selection-end-line="197" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/enities/Payment.java.1" />
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2497">
-          <caret line="457" column="61" selection-start-line="457" selection-start-column="61" selection-end-line="457" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="93">
-            <caret line="3" selection-start-line="3" selection-end-line="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/enities/Payment.java" />
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.2.RELEASE/spring-web-5.2.2.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="107" selection-start-line="107" selection-end-line="107" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/enities/CommonResult.java" />
-    <entry file="file://$PROJECT_DIR$/mic-core/brandom_common_core/src/main/java/com/common/core/enities/CommonResult.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/enities/CommonResult.java" />
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/service/PaymentService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/resources/generatorConfig.xml" />
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/dao/PaymentMapper.java" />
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/service/impl/PaymentServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/enities/Payment.java" />
-    <entry file="file://$PROJECT_DIR$/mic-core/brandom_common_core/src/main/java/com/common/core/enities/Payment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/dao/PaymentDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mic-core/brandom_product_core/src/main/java/com/brandom/product/BrandomProductSrvApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4588">
-          <caret line="148" column="12" selection-start-line="148" selection-start-column="12" selection-end-line="148" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_user_srv/src/main/java/com/brandom/user/config/DruidAutoConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="27" selection-start-line="26" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mic-core/brandom_product_core/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-372" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mic-core/brandom_common_core/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="28" selection-start-line="28" selection-end-line="32" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_user_srv/src/main/java/com/brandom/user/config/DruidProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mic-server/brandom_user_srv/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-31">
-          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+        <state relative-caret-position="208">
+          <caret line="9" column="13" selection-start-line="5" selection-start-column="4" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mic-cloud/brandom_eureka_srv/pom.xml">
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_user_srv/src/main/java/com/brandom/user/controller/OpenFeignController.java" />
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_user_srv/src/main/java/com/brandom/user/service/MallFeignService.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.2.2.RELEASE/spring-boot-2.2.2.RELEASE.jar!/org/springframework/boot/context/logging/LoggingApplicationListener.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="66" column="21" selection-start-line="21" selection-start-column="8" selection-end-line="66" selection-end-column="21" />
+        <state relative-caret-position="156">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_product_srv/pom.xml">
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/java/com/brandom/order/config/FeignConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="96" column="21" selection-start-line="20" selection-start-column="7" selection-end-line="96" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall/service/impl/PaymentServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall02_srv/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3007">
-          <caret line="97" column="19" selection-start-line="97" selection-start-column="19" selection-end-line="97" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/resources/mapper/PaymentMapper.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall/service/PaymentService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mic-cloud/brandom_eureka02_srv/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2046">
-          <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall/controller/PaymentController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        <state relative-caret-position="390">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/resources/mapper/PaymentMapper.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/AbstractLoadBalancerRule.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+        <state relative-caret-position="260">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+          <folding>
+            <element signature="e#1060#1061#0" expanded="true" />
+            <element signature="e#1085#1086#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/resources/application.yml">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/IRule.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        <state relative-caret-position="520">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/BrandomProductSrvApplication.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/RandomRule.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        <state relative-caret-position="468">
+          <caret line="37" column="41" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/myrule/MyRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/loadbalance/MyLoadBalancer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.2.RELEASE/spring-web-5.2.2.RELEASE.jar!/org/springframework/web/client/RestTemplate.class">
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/loadbalance/LoadBalancer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/controller/ProductController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+        <state relative-caret-position="468">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -957,82 +1072,307 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/config/ApplicationContextConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        <state relative-caret-position="208">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/controller/PaymentController.java">
+    <entry file="file://$PROJECT_DIR$/mic-core/brandom_common_core/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.2.RELEASE/spring-web-5.2.2.RELEASE.jar!/org/springframework/web/bind/annotation/PathVariable.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="963">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="101">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.2.RELEASE/spring-boot-autoconfigure-2.2.2.RELEASE.jar!/org/springframework/boot/autoconfigure/web/ServerProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="649" column="49" selection-start-line="649" selection-start-column="49" selection-end-line="649" selection-end-column="49" />
+          <folding>
+            <element signature="e#19493#19494#0" expanded="true" />
+            <element signature="e#19539#19540#0" expanded="true" />
+            <element signature="e#19592#19593#0" expanded="true" />
+            <element signature="e#19644#19645#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall/service/PaymentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_product_srv/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/BrandomProductSrvApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/java/com/brandom/order/service/impl/PaymentServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/java/com/brandom/order/service/PaymentService.java" />
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_order_srv/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mic-cloud/brandom_eureka_srv/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        <state relative-caret-position="156">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mic-cloud/brandom_eureka02_srv/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/java/com/brandom/order/service/MallFeignService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        <state relative-caret-position="178">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mic-cloud/brandom_eureka02_srv/src/main/java/com/brandom/eureka02/BrandomEureka02SrvApplication.java">
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall/service/impl/PaymentServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="627">
+          <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
           <folding>
-            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#760#761#0" expanded="true" />
+            <element signature="e#1866#1867#0" expanded="true" />
+            <element signature="e#1968#1969#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mic-cloud/brandom_eureka_srv/src/main/java/com/brandom/eureka/BrandomEurekaSrvApplication.java">
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall02_srv/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="-156">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/BrandomMallSrvApplication.java">
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall/controller/PaymentController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-434">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        <state relative-caret-position="291">
+          <caret line="60" column="42" lean-forward="true" selection-start-line="60" selection-start-column="42" selection-end-line="60" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/java/com/brandom/mall/BrandomMall02SrvApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        <state relative-caret-position="182">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/java/com/brandom/order/BrandomOrderSrvApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.2.RELEASE/spring-web-5.2.2.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/java/com/brandom/order/controller/OrderHystrixController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="46" column="54" selection-start-line="46" selection-start-column="54" selection-end-line="46" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/java/com/brandom/order/controller/OpenFeignController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="25" column="53" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#776#777#0" expanded="true" />
+            <element signature="e#834#835#0" expanded="true" />
+            <element signature="e#935#936#0" expanded="true" />
+            <element signature="e#996#997#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/java/com/brandom/order/service/PaymentHystrixService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_order_srv/src/main/java/com/brandom/order/service/impl/PaymentFallbackService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mic-server/SpringBoot_MybatisPlus/src/main/java/com/cun/plus/mapper/UserMapper.java" />
+    <entry file="file://$PROJECT_DIR$/mic-server/SpringBoot_MybatisPlus/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/mic-server/SpringBoot_MybatisPlus/src/main/java/com/cun/plus/PlusApplication.java" />
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="95" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="47" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16588">
+          <caret line="695" column="29" selection-start-line="695" selection-start-column="29" selection-end-line="695" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/entity/Annimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <folding>
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/BrandomMallSrvApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_product_srv/src/main/java/com/brandom/product/entity/Forest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/dao/PaymentDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="27" selection-start-line="27" selection-end-line="31" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        <state relative-caret-position="260">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall02_srv/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/controller/PaymentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="38" column="50" lean-forward="true" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/service/PaymentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-javanica/1.5.18/hystrix-javanica-1.5.18.jar!/com/netflix/hystrix/contrib/javanica/command/MethodExecutionAction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mic-server/brandom_mall_srv/src/main/java/com/brandom/mall/service/impl/PaymentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1571#1572#0" expanded="true" />
+            <element signature="e#1631#1632#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1086,12 +1426,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>brandom_eureka02_srv</last-edited>
+          <last-edited>brandom_mall_srv</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
