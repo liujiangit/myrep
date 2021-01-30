@@ -15,6 +15,7 @@
         <module name="brandom_product_core" />
         <module name="brandom_order_srv" />
         <module name="brandom_user_core" />
+        <module name="brandom_gateway_srv" />
         <module name="brandom_eureka_srv" />
       </profile>
     </annotationProcessing>
@@ -28,6 +29,7 @@
       <module name="brandom_common_core" options="" />
       <module name="brandom_eureka02_srv" options="" />
       <module name="brandom_eureka_srv" options="" />
+      <module name="brandom_gateway_srv" options="" />
       <module name="brandom_mall02_srv" options="" />
       <module name="brandom_mall_srv" options="" />
       <module name="brandom_order_srv" options="" />
