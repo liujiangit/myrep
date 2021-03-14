@@ -18,6 +18,7 @@
         <option value="$PROJECT_DIR$/mic-cloud/brandom_eureka_srv/pom.xml" />
         <option value="$PROJECT_DIR$/mic-cloud/brandom_eureka02_srv/pom.xml" />
         <option value="$PROJECT_DIR$/mic-server/brandom_mall02_srv/pom.xml" />
+        <option value="$PROJECT_DIR$/mic-server/brandom_repository_srv/pom.xml" />
       </list>
     </option>
   </component>

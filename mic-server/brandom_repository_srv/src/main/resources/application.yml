@@ -1,0 +1,20 @@
+server:
+  port: 8090
+  tomcat:
+    uri-encoding: UTF-8
+    max-threads: 2000
+    max-connections: 20000
+spring:
+  application:
+    name: repository-srv
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka,http://eureka7002.com:7002/eureka  #\u96C6\u7FA4\u7248
+    register-with-eureka: true
+    fetch-registry: true
+    prefer-ip-address: true
+  instance:
+    lease-renewal-interval-in-seconds: 1
+    lease-expiration-duration-in-seconds: 2

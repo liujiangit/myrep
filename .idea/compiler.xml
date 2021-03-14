@@ -9,6 +9,7 @@
         <module name="brandom_user_srv" />
         <module name="brandom_common_core" />
         <module name="brandom_mall02_srv" />
+        <module name="brandom_repository_srv" />
         <module name="brandom_product_srv" />
         <module name="brandom_eureka02_srv" />
         <module name="brandom_mall_srv" />
@@ -35,6 +36,7 @@
       <module name="brandom_order_srv" options="" />
       <module name="brandom_product_core" options="" />
       <module name="brandom_product_srv" options="" />
+      <module name="brandom_repository_srv" options="" />
       <module name="brandom_user_core" options="" />
       <module name="brandom_user_srv" options="" />
     </option>
