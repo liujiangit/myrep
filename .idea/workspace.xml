@@ -22,9 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e8f99b4-389d-49bf-898e-79566c595a4a" name="Default Changelist" comment="test01修改">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4e8f99b4-389d-49bf-898e-79566c595a4a" name="Default Changelist" comment="撤销后" />
     <list id="0465b18e-75c9-4283-bc18-201286d18c4b" name="uncommitChangelist" comment="uncommitChangelist" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +102,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.2031163" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -317,7 +316,7 @@
       <workItem from="1618188972190" duration="34619000" />
       <workItem from="1618369011149" duration="11040000" />
       <workItem from="1620812937968" duration="24000" />
-      <workItem from="1621842796590" duration="2113000" />
+      <workItem from="1621842796590" duration="2419000" />
     </task>
     <task id="LOCAL-00001" summary="提交修改">
       <created>1608902473814</created>
@@ -375,7 +374,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621844971523</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="撤销后">
+      <created>1621845596799</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1621845596800</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -428,7 +434,8 @@
     <MESSAGE value="添加mindmanager文件" />
     <MESSAGE value="服务降级" />
     <MESSAGE value="test01修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="test01修改" />
+    <MESSAGE value="撤销后" />
+    <option name="LAST_COMMIT_MESSAGE" value="撤销后" />
   </component>
   <component name="WindowStateProjectService">
     <state x="610" y="305" key="#Notifications" timestamp="1618196798111">
@@ -487,10 +494,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="381" y="78" width="1469" height="883" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618188768489" />
-    <state x="452" y="189" key="Vcs.Push.Dialog.v2" timestamp="1621844972819">
+    <state x="452" y="189" key="Vcs.Push.Dialog.v2" timestamp="1621845598173">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1621844972819" />
+    <state x="452" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1621845598173" />
     <state x="709" y="416" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1621845325105">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -499,6 +506,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="731" y="394" key="git4idea.ui.GitResetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621845046339" />
+    <state x="3" y="105" key="new project wizard" timestamp="1621845626715">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3" y="105" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1621845626715" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
