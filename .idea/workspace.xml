@@ -3,13 +3,27 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="ALL" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e8f99b4-389d-49bf-898e-79566c595a4a" name="Default Changelist" comment="服务降级">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="4e8f99b4-389d-49bf-898e-79566c595a4a" name="Default Changelist" comment="test01修改">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mmap/LTrace.mmap" beforeDir="false" afterPath="$PROJECT_DIR$/mmap/LTrace.mmap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <list id="0465b18e-75c9-4283-bc18-201286d18c4b" name="uncommitChangelist" comment="uncommitChangelist" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +66,9 @@
       <find>port: 1001</find>
       <find>port: 8090</find>
     </findStrings>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -300,7 +317,7 @@
       <workItem from="1618188972190" duration="34619000" />
       <workItem from="1618369011149" duration="11040000" />
       <workItem from="1620812937968" duration="24000" />
-      <workItem from="1621842796590" duration="1072000" />
+      <workItem from="1621842796590" duration="2113000" />
     </task>
     <task id="LOCAL-00001" summary="提交修改">
       <created>1608902473814</created>
@@ -330,7 +347,35 @@
       <option name="project" value="LOCAL" />
       <updated>1609237042742</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="服务降级">
+      <created>1621844409547</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1621844409547</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test01修改">
+      <created>1621844895782</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1621844895782</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test01修改">
+      <created>1621844936006</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1621844936006</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test01修改">
+      <created>1621844971523</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1621844971523</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -381,13 +426,19 @@
     <MESSAGE value="spring项目原码" />
     <MESSAGE value="openfeign and loadbanlance" />
     <MESSAGE value="添加mindmanager文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加mindmanager文件" />
+    <MESSAGE value="服务降级" />
+    <MESSAGE value="test01修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="test01修改" />
   </component>
   <component name="WindowStateProjectService">
     <state x="610" y="305" key="#Notifications" timestamp="1618196798111">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="610" y="305" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1618196798111" />
+    <state x="593" y="306" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621844954689">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="593" y="306" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1621844954689" />
     <state x="678" y="217" key="FileChooserDialogImpl" timestamp="1618188636582">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -428,10 +479,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="437" y="194" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618377685388" />
+    <state x="711" y="154" key="RollbackChangesDialog" timestamp="1621845203433">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="711" y="154" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621845203433" />
     <state x="381" y="78" width="1469" height="883" key="SettingsEditor" timestamp="1618188768489">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="381" y="78" width="1469" height="883" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618188768489" />
+    <state x="452" y="189" key="Vcs.Push.Dialog.v2" timestamp="1621844972819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1621844972819" />
+    <state x="709" y="416" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1621845325105">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="709" y="416" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1621845325105" />
+    <state x="731" y="394" key="git4idea.ui.GitResetDialog" timestamp="1621845046339">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="394" key="git4idea.ui.GitResetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621845046339" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
