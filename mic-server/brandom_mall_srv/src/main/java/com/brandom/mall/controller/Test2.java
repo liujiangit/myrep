@@ -5,5 +5,6 @@ public class Test2 {
         System.out.println("same");
         System.out.println("same1");
         System.out.println("same3");
+        System.out.println("same4");
     }
 }
