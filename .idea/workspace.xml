@@ -23,11 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e8f99b4-389d-49bf-898e-79566c595a4a" name="Default Changelist" comment="第四次提交">
-      <change beforePath="$PROJECT_DIR$/mic-server/test05" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/test05" afterDir="false" />
-    </list>
-    <list id="0465b18e-75c9-4283-bc18-201286d18c4b" name="uncommitChangelist" comment="uncommitChangelist">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    <list id="0465b18e-75c9-4283-bc18-201286d18c4b" name="uncommitChangelist" comment="uncommitChangelist" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -185,17 +183,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -410,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621846879116</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="要撤销的修改">
+      <created>1621848959987</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1621848959987</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -464,7 +458,8 @@
     <MESSAGE value="服务降级" />
     <MESSAGE value="test01修改" />
     <MESSAGE value="撤销后" />
-    <option name="LAST_COMMIT_MESSAGE" value="撤销后" />
+    <MESSAGE value="要撤销的修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="要撤销的修改" />
   </component>
   <component name="WindowStateProjectService">
     <state x="610" y="305" key="#Notifications" timestamp="1618196798111">
