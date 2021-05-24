@@ -6,5 +6,6 @@ public class Test {
         System.out.println("aaa");
         System.out.println("dds");
         System.out.println("first");
+        System.out.println("second");
     }
 }
