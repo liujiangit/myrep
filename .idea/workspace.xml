@@ -22,12 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e8f99b4-389d-49bf-898e-79566c595a4a" name="Default Changelist" comment="第四次提交">
-      <change beforePath="$PROJECT_DIR$/mic-server/test05" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/test05" afterDir="false" />
-    </list>
-    <list id="0465b18e-75c9-4283-bc18-201286d18c4b" name="uncommitChangelist" comment="uncommitChangelist">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4e8f99b4-389d-49bf-898e-79566c595a4a" name="Default Changelist" comment="第四次提交" />
+    <list id="0465b18e-75c9-4283-bc18-201286d18c4b" name="uncommitChangelist" comment="uncommitChangelist" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -189,13 +185,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -474,11 +472,11 @@
     <state x="593" y="306" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621846821809">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="593" y="306" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1621846821809" />
-    <state x="184" y="86" key="DiffContextDialog" timestamp="1621845681262">
+    <state x="593" y="306" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1621844954689" />
+    <state x="184" y="86" width="1536" height="860" key="DiffContextDialog" timestamp="1621848899174">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="593" y="306" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1621844954689" />
+    <state x="184" y="86" width="1536" height="860" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621848899174" />
     <state x="678" y="217" key="FileChooserDialogImpl" timestamp="1618188636582">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -531,18 +529,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="419" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1621846874896" />
-    <state x="452" y="189" key="Vcs.Push.Dialog.v2" timestamp="1621846896316">
+    <state x="452" y="189" key="Vcs.Push.Dialog.v2" timestamp="1621848763677">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1621846896316" />
+    <state x="452" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1621848763677" />
     <state x="709" y="416" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1621845325105">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="709" y="416" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1621845325105" />
-    <state x="731" y="394" key="git4idea.ui.GitResetDialog" timestamp="1621845046339">
+    <state x="731" y="394" key="git4idea.ui.GitResetDialog" timestamp="1621848711173">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="731" y="394" key="git4idea.ui.GitResetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621845046339" />
+    <state x="731" y="394" key="git4idea.ui.GitResetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621848711173" />
     <state x="3" y="105" key="new project wizard" timestamp="1621845626715">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
