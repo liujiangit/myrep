@@ -22,8 +22,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e8f99b4-389d-49bf-898e-79566c595a4a" name="Default Changelist" comment="撤销后" />
-    <list id="0465b18e-75c9-4283-bc18-201286d18c4b" name="uncommitChangelist" comment="uncommitChangelist" />
+    <list default="true" id="4e8f99b4-389d-49bf-898e-79566c595a4a" name="Default Changelist" comment="第四次提交">
+      <change beforePath="$PROJECT_DIR$/mic-server/test05" beforeDir="false" afterPath="$PROJECT_DIR$/mic-server/test05" afterDir="false" />
+    </list>
+    <list id="0465b18e-75c9-4283-bc18-201286d18c4b" name="uncommitChangelist" comment="uncommitChangelist">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,6 +113,10 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\opensource\project\myrep\mic-server" />
+      <recent name="F:\opensource\project\myrep\mic-server\brandom_user_srv" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.brandom.order.service" />
       <recent name="com.brandom.order.controller" />
@@ -316,7 +324,7 @@
       <workItem from="1618188972190" duration="34619000" />
       <workItem from="1618369011149" duration="11040000" />
       <workItem from="1620812937968" duration="24000" />
-      <workItem from="1621842796590" duration="2419000" />
+      <workItem from="1621842796590" duration="3692000" />
     </task>
     <task id="LOCAL-00001" summary="提交修改">
       <created>1608902473814</created>
@@ -381,7 +389,28 @@
       <option name="project" value="LOCAL" />
       <updated>1621845596800</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="第四次提交">
+      <created>1621845676592</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1621845676592</updated>
+    </task>
+    <task id="LOCAL-00011" summary="第四次提交">
+      <created>1621845781530</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1621845781530</updated>
+    </task>
+    <task id="LOCAL-00012" summary="第四次提交">
+      <created>1621846879116</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1621846879116</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -442,7 +471,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="610" y="305" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1618196798111" />
-    <state x="593" y="306" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621844954689">
+    <state x="593" y="306" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621846821809">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="593" y="306" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1621846821809" />
+    <state x="184" y="86" key="DiffContextDialog" timestamp="1621845681262">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="593" y="306" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1621844954689" />
@@ -494,10 +527,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="381" y="78" width="1469" height="883" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618188768489" />
-    <state x="452" y="189" key="Vcs.Push.Dialog.v2" timestamp="1621845598173">
+    <state x="794" y="419" key="VCS.ChangelistChooser" timestamp="1621846874896">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1621845598173" />
+    <state x="794" y="419" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1621846874896" />
+    <state x="452" y="189" key="Vcs.Push.Dialog.v2" timestamp="1621846896316">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1621846896316" />
     <state x="709" y="416" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1621845325105">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
