@@ -22,7 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e8f99b4-389d-49bf-898e-79566c595a4a" name="Default Changelist" comment="版本8" />
+    <list default="true" id="4e8f99b4-389d-49bf-898e-79566c595a4a" name="Default Changelist" comment="版本003" />
     <list id="0465b18e-75c9-4283-bc18-201286d18c4b" name="uncommitChangelist" comment="uncommitChangelist" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -413,7 +413,28 @@
       <option name="project" value="LOCAL" />
       <updated>1621848959987</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="版本001">
+      <created>1622429631834</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1622429631834</updated>
+    </task>
+    <task id="LOCAL-00015" summary="版本002">
+      <created>1622429652669</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1622429652669</updated>
+    </task>
+    <task id="LOCAL-00016" summary="版本003">
+      <created>1622429674169</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1622429674169</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -468,7 +489,10 @@
     <MESSAGE value="test01修改" />
     <MESSAGE value="撤销后" />
     <MESSAGE value="要撤销的修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="要撤销的修改" />
+    <MESSAGE value="版本001" />
+    <MESSAGE value="版本002" />
+    <MESSAGE value="版本003" />
+    <option name="LAST_COMMIT_MESSAGE" value="版本003" />
   </component>
   <component name="WindowStateProjectService">
     <state x="610" y="305" key="#Notifications" timestamp="1618196798111">
@@ -479,10 +503,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="593" y="306" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1621844954689" />
-    <state x="184" y="86" width="1536" height="860" key="DiffContextDialog" timestamp="1622429490740">
+    <state x="184" y="86" width="1536" height="860" key="DiffContextDialog" timestamp="1622430909832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="184" y="86" width="1536" height="860" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622429490740" />
+    <state x="184" y="86" width="1536" height="860" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622430909832" />
     <state x="678" y="217" key="FileChooserDialogImpl" timestamp="1618188636582">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -523,34 +547,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="437" y="194" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618377685388" />
-    <state x="711" y="154" key="RollbackChangesDialog" timestamp="1621845203433">
+    <state x="711" y="154" key="RollbackChangesDialog" timestamp="1622429735034">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="711" y="154" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621845203433" />
+    <state x="711" y="154" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622429735034" />
     <state x="381" y="78" width="1469" height="883" key="SettingsEditor" timestamp="1618188768489">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="381" y="78" width="1469" height="883" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618188768489" />
-    <state x="650" y="158" key="VCS.ChangeListViewerDialog" timestamp="1622429457850">
+    <state x="650" y="158" key="VCS.ChangeListViewerDialog" timestamp="1622429720279">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="650" y="158" key="VCS.ChangeListViewerDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622429457850" />
+    <state x="650" y="158" key="VCS.ChangeListViewerDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622429720279" />
     <state x="794" y="419" key="VCS.ChangelistChooser" timestamp="1621846874896">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="419" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1621846874896" />
-    <state x="452" y="189" key="Vcs.Push.Dialog.v2" timestamp="1621846896316">
+    <state x="452" y="189" key="Vcs.Push.Dialog.v2" timestamp="1622429675422">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1621846896316" />
+    <state x="452" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1622429675422" />
     <state x="709" y="416" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1621845325105">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="709" y="416" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1621845325105" />
-    <state x="731" y="394" key="git4idea.ui.GitResetDialog" timestamp="1622429460347">
+    <state x="731" y="394" key="git4idea.ui.GitResetDialog" timestamp="1622429721385">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="731" y="394" key="git4idea.ui.GitResetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622429460347" />
+    <state x="731" y="394" key="git4idea.ui.GitResetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622429721385" />
     <state x="3" y="105" key="new project wizard" timestamp="1621845626715">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
