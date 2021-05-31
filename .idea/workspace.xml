@@ -478,11 +478,11 @@
     <state x="593" y="306" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621846821809">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="593" y="306" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1621846821809" />
-    <state x="184" y="86" key="DiffContextDialog" timestamp="1621845681262">
+    <state x="593" y="306" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1621844954689" />
+    <state x="184" y="86" width="1536" height="860" key="DiffContextDialog" timestamp="1622429490740">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="593" y="306" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1621844954689" />
+    <state x="184" y="86" width="1536" height="860" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622429490740" />
     <state x="678" y="217" key="FileChooserDialogImpl" timestamp="1618188636582">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -531,6 +531,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="381" y="78" width="1469" height="883" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618188768489" />
+    <state x="650" y="158" key="VCS.ChangeListViewerDialog" timestamp="1622429457850">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="650" y="158" key="VCS.ChangeListViewerDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622429457850" />
     <state x="794" y="419" key="VCS.ChangelistChooser" timestamp="1621846874896">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -543,10 +547,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="709" y="416" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1621845325105" />
-    <state x="731" y="394" key="git4idea.ui.GitResetDialog" timestamp="1621845046339">
+    <state x="731" y="394" key="git4idea.ui.GitResetDialog" timestamp="1622429460347">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="731" y="394" key="git4idea.ui.GitResetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621845046339" />
+    <state x="731" y="394" key="git4idea.ui.GitResetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622429460347" />
     <state x="3" y="105" key="new project wizard" timestamp="1621845626715">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
